@@ -24,6 +24,7 @@ body{
 #d2:hover{
     color:rgb(232, 122, 122);
     background-color: #FFF6BD;
+    padding:10px;
 }
 #d3{
     background-color: #282A3A;
