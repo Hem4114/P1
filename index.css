@@ -21,6 +21,7 @@ body{
     text-align: center;
     padding:5px 0px 5px 0px;
     margin:23px;
+    transition: height 1s,width 1s;
 }
 #d2:hover{
     color:rgb(232, 122, 122);
@@ -47,6 +48,7 @@ body{
 #d3 a{
     text-decoration: none;
     color: rgb(232, 122, 122);
+    transition: height 1s,width 1s;
 }
 #d3 a:hover{
     color: #FFF6BD;
